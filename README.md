@@ -3,6 +3,8 @@ My second semester project for my object-oriented programming course.
 A simulation game for the lab work done in my second semester 
 Digital Logic Design course.
 
+Bio
+
 I am a student in university studying software engineering, and this 
 project was my end semester project for my Object Oriented Programming course.
 At this time while I am pleased with how my project turned out as my first
@@ -11,6 +13,16 @@ time I recognize how messy the organization of my code is, and how many
 aspects can be immensly improved upon. I hope you all will give me ideas and
 educated me in being better at Object Oriented Programming and how to 
 improve upon my current project.
+
+How to Run the Program
+
+Currently you need to have Netbeans on your computer. And you also need a 
+screen size of 1920, 1080, for it to run properly. Download the Project
+folder, and simply open said project from NetBeans with File --> Open
+Project --> Browse for where you downloaded the project file, and open it.
+Then press F6 to run.
+
+Future Plans
 
 At the moment I have uploaded the project folder as is from NetBeans, as
 I can't seem to figure out how to build the project properly. When I
