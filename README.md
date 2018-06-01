@@ -22,6 +22,21 @@ folder, and simply open said project from NetBeans with File --> Open
 Project --> Browse for where you downloaded the project file, and open it.
 Then press F6 to run.
 
+How to Use the Program
+
+To start a wire, move your cursor over a node or terminal until it is 
+selected, then left click. Drag the mouse to extend the wire and to end
+wiring, right click on a node or terminal. Make sure it is selected first,
+else the wiring will cancel. To add components, go to the IC Menu on the
+top left, and choose a component from the drop down menu. Right click on 
+the node that corresponds to the top right pin of the component you are 
+trying to place, to attach the component to the bread board. Switches
+are activated by left clicking. The red and black terminals on the top 
+left side and bottom right side are Vcc and Ground respectively. As in
+real life, the Integrated Circuit components need vcc and ground
+connected to them, and the pin configuration is the same as their 
+respective ICs in real life.
+
 Future Plans
 
 At the moment I have uploaded the project folder as is from NetBeans, as
