@@ -12,6 +12,16 @@ aspects can be immensly improved upon. I hope you all will give me ideas and
 educated me in being better at Object Oriented Programming and how to 
 improve upon my current project.
 
+At the moment I have uploaded the project folder as is from NetBeans, as
+I can't seem to figure out how to build the project properly. When I
+build it, it doesn't work properly. I would like to learn to make it into
+a jar file or exe file.
+
+Another problem is my project is not flexible for different screen sizes.
+My screen while I was working on the project is 1920, 1080. It should
+run fine on those screen sizes. I need to make it so that it can work
+on different screen sizes.
+
 Currently I am looking for a proper way to resize images in Java. The last
 time I tried a method I found online, it had a bug in it that the image 
 corners would crop out when I would zoom in our out.
